@@ -3,6 +3,7 @@ _________________
 I am a Full-Stack developer with a passion for developing.
 _________________
 
-[![Visits Badge](https://badges.pufler.dev/visits/alexiaCat/alexiaCat)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?alexiaCat-de-github&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
